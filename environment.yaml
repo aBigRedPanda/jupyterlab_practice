@@ -1,0 +1,24 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.11.9
+  - conda==24.3.0
+  - setuptools
+  - pip
+  - wheel
+  - conda-content-trust
+  - conda-libmamba-solver
+  - menuinst
+  - console_shortcut_miniconda
+  - powershell_shortcut_miniconda
+  - pandas
+  - jupyterlab
+  - jupyterlab-git
+  - jupyterlab-spellchecker
+  - jupyter-book
+  - nbconvert
+  - pyppeteer
+  - nb_conda_kernels
+prefix: C:\Users\farhe\miniconda3
